@@ -1,3 +1,7 @@
-asdasdasdasdasdasdasdaushfjsdkjbgjsdg
-sdfgdfsgsdfg
-dsfgsdfgsdfgsdfg
+PARA CREAR UNA RAMA Y SUBIRLA AL MASTER
+
+git add .
+git merge [nombre rama]
+git push origin {nombre rama}
+
+
